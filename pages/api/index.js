@@ -1,7 +1,7 @@
 export default async function handler(req, res) {
   try {
     const UPSTREAM_BASE = "https://dark-trace-networks.vercel.app/api";
-    const PUBLIC_KEY = "onlymynk";
+    const PUBLIC_KEY = "mynk";
     const UPSTREAM_KEY = "DarkTrace_Network";
     const MY_CREDIT = "@mynk_mynk_mynk";
 
